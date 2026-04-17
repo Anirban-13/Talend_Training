@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_Sup5wTlVEfGuksUrwr7U_A" label="My_ETL_Sprint" description="" language="java" technicalLabel="MY_ETL_SPRINT" author="_Sup5wjlVEfGuksUrwr7U_A" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20250218_0945-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Anirban-13/Talend_Training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_S0VrADlVEfGuksUrwr7U_A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_Sup5wjlVEfGuksUrwr7U_A" login="a.aa.bhattacharyya@trial.bwzojls46lat3xw.in.qlikcloud.com" firstName="Anirban" lastName="Bhattacharyya" type="DQ"/>
+</xmi:XMI>
